@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>16.jpg</filename>
+	<path>train/16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>face_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>83</ymin>
+			<xmax>346</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>
