@@ -4,7 +4,7 @@
 深度学习与图像识别配套源代码 《深度学习与图像识别》 Deep learning and image recognition
 
 https://gitee.com/bvngh3247i/deep-learning
-
+![输入图片说明](%E6%95%99%E6%9D%90%E5%B0%81%E9%9D%A2.png)
 #### 作者介绍
 
 广东科学技术职业学院 主编：胡建华,陈宗仁 副主编：韩天琪，郭建丁，杨忠明，魏晓艳
@@ -39,6 +39,11 @@ https://gitee.com/bvngh3247i/deep-learning
 链接：https://pan.baidu.com/s/1RPZjJccMAJuGmM-1pFBp4A 
 提取码：nhfe
 
-人工智能国培项目
+人工智能2020国培项目
 链接：https://pan.baidu.com/s/1mnNR5uiOfcHFQSm91o9kOg 
 提取码：hb28 
+
+
+人工智能2022国培项目
+链接：https://pan.baidu.com/s/1dwXBTowSmkiGgpXbr7kTWQ 
+提取码：7cm2
