@@ -3,6 +3,8 @@
 #### 教材名称
 深度学习与图像识别配套源代码 《深度学习与图像识别》 Deep learning and image recognition
 
+https://gitee.com/bvngh3247i/deep-learning
+
 #### 作者介绍
 
 广东科学技术职业学院 主编：胡建华,陈宗仁 副主编：韩天琪，郭建丁，杨忠明，魏晓艳
@@ -27,3 +29,16 @@
 第7章介绍了目标检测项目实战项目，包括口罩检测数据集准备、模型训练与预测；
 
 第8章介绍了人脸考勤系统综合项目实战项目，包括人脸检测、人脸识别、口罩检测、语音提醒。
+
+深度学习与图像识别配套源代码 《深度学习与图像识别》 Deep learning and image recognition
+
+
+
+人工智能视频教程
+
+链接：https://pan.baidu.com/s/1RPZjJccMAJuGmM-1pFBp4A 
+提取码：nhfe
+
+人工智能国培项目
+链接：https://pan.baidu.com/s/1mnNR5uiOfcHFQSm91o9kOg 
+提取码：hb28 
