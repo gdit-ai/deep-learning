@@ -5,6 +5,8 @@
 
 https://gitee.com/bvngh3247i/deep-learning
 
+京东价格原价29元
+
 ![输入图片说明](%E6%95%99%E6%9D%90%E5%B0%81%E9%9D%A2.png)
 #### 作者介绍
 
