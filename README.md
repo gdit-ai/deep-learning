@@ -35,6 +35,7 @@ https://gitee.com/bvngh3247i/deep-learning
 
 深度学习与图像识别配套源代码 《深度学习与图像识别》 Deep learning and image recognition
 
+本教材提供了对应的上课实训手册与课件, QQ群号：971601256
 
 
 人工智能视频教程
